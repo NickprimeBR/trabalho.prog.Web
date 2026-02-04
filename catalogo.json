@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nome": "Jujutsu Kaisen",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/46/Jujutsu_Kaisen.jpg",
+    "descricao": "Yuji Itadori se envolve com feiticeiros jujutsu após engolir um artefato amaldiçoado e passa a lutar contra maldições."
+  },
+  {
+    "id": 2,
+    "nome": "Demon Slayer",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/0/09/Demon_Slayer_Kimetsu_no_Yaiba.jpg",
+    "descricao": "Tanjiro Kamado se torna um caçador de demônios para salvar sua irmã e vingar sua família."
+  },
+  {
+    "id": 3,
+    "nome": "Attack on Titan",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/6f/Shingeki_no_Kyojin_Capa.png",
+    "descricao": "A humanidade luta pela sobrevivência contra titãs gigantes que ameaçam sua existência."
+  }
+]
